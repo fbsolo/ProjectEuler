@@ -173,7 +173,7 @@ func main() {
 	//
 	//		http://blog.dreamshire.com/project-euler-44-solution/
 	//
-	//	which show that
+	//	and these show that
 	//
 	//		x[1] = 2167 -> pentnum = 7042750
 	//		x[0] = 1020 -> pentnum = 1560090
